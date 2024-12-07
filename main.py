@@ -1,4 +1,5 @@
 
+def main():
+    print('Olá mundo')
+    print('Arnaldo Junior')
 
-print('Olá mundo')
-print('Arnaldo Junior')
