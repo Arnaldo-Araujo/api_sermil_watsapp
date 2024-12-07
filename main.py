@@ -1,4 +1,8 @@
 
 
-print('Olá mundo')
-print('Arnaldo Junior')
+def main():
+    print('Olá mundo')
+    print('Arnaldo Junior')
+
+main()
+
