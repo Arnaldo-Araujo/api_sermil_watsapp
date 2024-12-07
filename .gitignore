@@ -1,6 +1,14 @@
 # Created by https://www.toptal.com/developers/gitignore/api/python,django
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,django
 
+
+/djangoapp/static/
+/djangoapp/media/
+/djangoapp/project/local_settings.py
+gunicorn-error-log
+__localcode
+/data/
+
 ### Django ###
 *.log
 *.pot
